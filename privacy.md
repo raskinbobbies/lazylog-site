@@ -4,7 +4,7 @@ title: LazyLog Privacy Policy
 
 # LazyLog Privacy Policy
 
-_Last updated: 18 October 2026_
+_Last updated: 19 October 2026_
 
 LazyLog is a fitness and food-logging app for iPhone made by the LazyLog team ("we"). This policy explains what data LazyLog handles, where it goes, and the choices you have. In short: **your logs live on your phone, there is no account, and we only send data off your phone when a feature needs it to work.**
 
@@ -18,6 +18,8 @@ These are stored only on your device, in the app's own storage, and are never up
 - progress photos (protected by Face ID and kept out of your photo library)
 
 Backups and exports you create are files you control. If you use iCloud device backup, Apple handles that copy under its own terms.
+
+**Your photo library.** If you allow Photos access, Add Food shows your recent photos in its own gallery. LazyLog reads the photos and their thumbnails on your phone only to show them there; it does not upload, copy or keep your library. Only a photo you choose for a meal is used, and it is sent only when you ask for a meal estimate (see below). If you allow only selected photos, LazyLog sees just those. You can change this any time in the iPhone Settings app under LazyLog > Photos.
 
 **Apple Health.** If you allow it, LazyLog reads data such as steps from Apple Health. Health data is used on your device only and is never used for advertising or sold.
 
@@ -57,7 +59,7 @@ We do not keep your meal photos, voice recordings or recipe text after a request
 ## Your choices
 
 - Use LazyLog without any AI feature. Typing a meal's numbers yourself, workouts and history all work without sending anything.
-- Deny or revoke camera, microphone, location, Apple Health and notification access in iOS Settings at any time.
+- Deny or revoke camera, microphone, Photos, location, Apple Health and notification access in iOS Settings at any time.
 - Delete all your data by deleting the app. Contact us to delete feedback you sent.
 
 ## Age
