@@ -4,7 +4,7 @@ title: LazyLog Privacy Policy
 
 # LazyLog Privacy Policy
 
-_Last updated: 18 October 2026_
+_Last updated: 27 October 2026_
 
 LazyLog is a fitness and food-logging app for iPhone made by the LazyLog team ("we"). This policy explains what data LazyLog handles, where it goes, and the choices you have. In short: **your logs live on your phone, there is no account, and we only send data off your phone when a feature needs it to work.**
 
@@ -33,9 +33,9 @@ LazyLog uses a small server we run on Cloudflare ("the LazyLog server") to reach
 | Guidance and suggestions | a summary of your day and recent history: calories and protein so far, goal, recent workouts, sleep and weight | LazyLog server, then OpenAI |
 | Find food nearby | your current location when you ask, and your remaining calories and protein | LazyLog server, Google Places and OpenAI |
 | Feedback | what you write, your app version, iOS version and device model, and a photo or diagnostics only if you attach them | LazyLog server |
-| Usage counts (on by default, can be turned off) | daily counts only, such as whether the app was opened, how many meals were logged, how many AI estimates were made or edited, workouts completed and recipes imported, plus app and iOS version | LazyLog server |
+| Usage counts (off by default, can be turned on) | daily counts only, such as whether the app was opened, how many meals were logged, how many AI estimates were made or edited, workouts completed and recipes imported, plus app and iOS version | LazyLog server |
 
-**Usage counts** help us see whether LazyLog is useful day to day. They never include what you ate, photos, food names, calories, weight, health data, location or times of day. Turn them off in Settings, under "Share anonymous usage counts"; anything not yet sent is deleted from your phone.
+**Usage counts** help us see whether LazyLog is useful day to day. They never include what you ate, photos, food names, calories, weight, health data, location or times of day. They are off unless you turn on "Share anonymous usage counts" in Settings. Turning it off again deletes anything not yet sent from your phone.
 
 Every request carries a random **installation ID** created on your phone. It is not linked to your name, email or Apple ID, and we use it only to apply fair-use limits and prevent abuse. It is stored in your phone's keychain, so it can stay on the device after the app is deleted.
 
